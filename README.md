@@ -5,3 +5,5 @@ Note that you need to run:
 
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 
+# Linux-healthcheck
+A simple BASH utility to check the health of a unix system.
